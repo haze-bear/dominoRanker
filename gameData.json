@@ -1,0 +1,29 @@
+{
+    "games": [
+        {
+            "id": 0,
+            "players": [
+                {
+                    "id": 0,
+                    "name": "Connor",
+                    "rank": 1000
+                },
+                {
+                    "id": 1,
+                    "name": "Sam",
+                    "rank": 1000
+                },
+                {
+                    "id": 2,
+                    "name": "Ryan",
+                    "rank": 1000
+                }
+            ],
+            "placement": [
+                1,
+                0,
+                2
+            ]
+        }
+    ]
+}

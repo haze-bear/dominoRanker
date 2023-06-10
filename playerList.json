@@ -1,0 +1,32 @@
+{
+    "players": [
+        {
+            "id": 0,
+            "name": "Connor",
+            "rank": 1000,
+            "wins": 0,
+            "losses": 0
+        },
+        {
+            "id": 1,
+            "name": "Sam",
+            "rank": 1000,
+            "wins": 0,
+            "losses": 0
+        },
+        {
+            "id": 2,
+            "name": "Ryan",
+            "rank": 1000,
+            "wins": 0,
+            "losses": 0
+        },
+        {
+            "id": 3,
+            "name": "Kane",
+            "rank": 1000,
+            "wins": 0,
+            "losses": 0
+        }
+    ]
+}
