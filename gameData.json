@@ -6,23 +6,21 @@
                 {
                     "id": 0,
                     "name": "Connor",
-                    "rank": 1000
+                    "rank": 1000,
+                    "placement": 1
                 },
                 {
                     "id": 1,
                     "name": "Sam",
-                    "rank": 1000
+                    "rank": 1000,
+                    "placement": 3
                 },
                 {
                     "id": 2,
                     "name": "Ryan",
-                    "rank": 1000
+                    "rank": 1000,
+                    "placement": 2
                 }
-            ],
-            "placement": [
-                1,
-                0,
-                2
             ]
         }
     ]
